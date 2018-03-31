@@ -1,0 +1,1 @@
+start "" "./redis/redis-server.exe" 
